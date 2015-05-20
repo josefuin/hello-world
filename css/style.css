@@ -1,7 +1,12 @@
 
 body  {
+    margin:auto;
+    padding:10px;
     background-image: url("http://i.giphy.com/3tzCu8tIfT9Re.gif");
     background-color: #cccccc;
     color:white;
-    margin:auto;
+    font-family:'Helvetica';
+    font-size:2em;
+    text-align:center;
+    
 }
