@@ -4,7 +4,7 @@ body  {
     height:100%;
     margin:auto;
     background-image: url("http://i.giphy.com/3tzCu8tIfT9Re.gif");
-    background-repeat:no-repeat;
+    /*background-repeat:no-repeat;*/
     background-color: #cccccc;
     color:white;
     font-family:'Helvetica';
