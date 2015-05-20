@@ -3,7 +3,7 @@ body  {
     margin:auto;
     padding:10px;
     background-image: url("http://i.giphy.com/3tzCu8tIfT9Re.gif");
-    background-repeat:none;
+    background-repeat:no-repeat;
     background-color: #cccccc;
     color:white;
     font-family:'Helvetica';
